@@ -1,0 +1,17 @@
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.csprojAssemblyReference.cache
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.csproj.CoreCompileInputs.cache
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.RazorAssemblyInfo.cache
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.RazorAssemblyInfo.cs
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.AssemblyInfoInputs.cache
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.AssemblyInfo.cs
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.deps.json
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.runtimeconfig.json
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.runtimeconfig.dev.json
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.dll
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.pdb
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Common.dll
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\bin\Debug\netcoreapp2.1\DFF.Common.pdb
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.RazorTargetAssemblyInfo.cache
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.csproj.CopyComplete
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.dll
+D:\C#\DFF\DFF.Services.FrequentFlyers\src\DFF.Services.FrequentFlyers\obj\Debug\netcoreapp2.1\DFF.Services.FrequentFlyers.pdb
